@@ -6,6 +6,6 @@ namespace Full_GRASP_And_SOLID
     /// </summary>
     public interface IPrinter
     {
-         void PrintRecipe(IRecipeContent recipeContent);
+        void PrintRecipe(IRecipeContent recipeContent);
     }
 }
